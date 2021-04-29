@@ -2,7 +2,7 @@
 
 --------
 
-## Open Main folder in VS code.
+## Clone or download project & open Main folder in VS code.
 
 --------
 
